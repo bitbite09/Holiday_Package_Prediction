@@ -56,7 +56,7 @@ The target variable is whether the customer will purchase a **Holiday Package**.
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Scikit-learn  
+- Scikit-learn / XGBoost 
 - Jupyter Notebook  
 
 ---
